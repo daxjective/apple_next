@@ -1,4 +1,4 @@
-let age = 20 ; 
+let age = 20;
+let name = "davin";
 
-
-export default age;
+export { age, name };
