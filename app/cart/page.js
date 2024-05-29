@@ -1,4 +1,5 @@
 import { age, name } from "./data.js";
+import GoodDay from "./subject.js";
 
 export default function Cart() {
   return (
@@ -13,6 +14,7 @@ export default function Cart() {
       <CartItem />
       <CartItem />
       <CartItem />
+      <GoodDay />
     </div>
   );
 }
