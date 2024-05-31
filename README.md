@@ -5,3 +5,7 @@
 /abc/def <br>
 /cart <br>
 /cart/payment <br>
+
+# Terminal
+> npm install 
+> npm run dev 
