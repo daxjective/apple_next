@@ -5,6 +5,7 @@
 /abc/def <br>
 /cart <br>
 /cart/payment <br>
+/write2
 
 # Terminal
 > npm install 
